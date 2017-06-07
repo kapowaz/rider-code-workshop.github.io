@@ -72,5 +72,7 @@ Advanced topics for more advanced students
 
 ## Tutor further reading/explanation materials
 
-1. Colour reference (also RGB/hex values)
+1. [Colour reference][colors] (also RGB/hex values)
 2. Layout stuff (`position: absolute` vs `position: relative`, box model)
+
+[colors]: https://developer.mozilla.org/en/docs/Web/CSS/color_value
