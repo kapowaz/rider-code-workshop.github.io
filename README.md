@@ -14,11 +14,12 @@
 8. In the _Sublime Text_ editor window, right-click the folder on the left hand side, and choose New File, then press Command-S (or File > Save) to save it, and call it `index.html`
 9. Time to get started with the exercise!
 
-## No CSS!
+## Making your profile page
 
-All the requirements can be met with plain html. Yes it will be an ugly page - that's ok.
+All the requirements can be met with plain HTML without any CSS. Yes it will be an ugly page - that’s ok.
 
-You should have:
+Students creating their profile page should try to have one of each of these things in their page:
+
 1. A main heading on the page with your name in it
 2. A photo of yourself
 3. A medium-length ‘about me’ description of yourself; talk about the kind of vehicle you use to deliver etc.
@@ -31,14 +32,14 @@ You should have:
     6. Any other interesting list of things you can think of
 5. (optional) embed a widget, e.g. your Strava profile, Soundcloud player, Spotify playlist, Twitter timeline, a favourite YouTube video etc.
 
-## Okay, now let’s do some stuff with CSS
+## Making your profile page _look nicer!_
 
-First of all, show them the web inspector tools as a way of changing stuff dynamically
+First of all, use the Web Inspector tools to change and play with your layout dynamically. Some ideas for things students might want to try playing with to improve how their profile page looks:
 
 1. Change the typography
 2. Change the background and text colour
 3. Give the layout a maximum width so that it doesn’t occupy the whole width of the window at larger sizes
-4. Make your “about me” text sit alongside your photo
+4. Make your “about me” text sit alongside your photo (`float` plus `clear` — more advanced!)
 5. GO NUTS!
 
 ## Publishing your website
@@ -58,19 +59,19 @@ There’s an example page with code here: https://github.com/bendeliveroo2017060
 
 1. Semantic markup: headings, images, paragraphs, links, lists
 2. `<style>` tag vs `<link rel="stylesheet">`
-3. font-family
-4. color and background-color, and how colour codes work (hex, rgb)
-5. container elements, width and margin
-6. float
+3. `font-family`
+4. `color` and `background-color`, and how colour codes work (hex, rgb)
+5. container elements, `width` and `margin`
+6. `display: float;`
 
 Extra properties/stuff that would be cool to learn about (possibly ad hoc as part of the exercise):
 
 1. Media queries
-2. :hover
-3. text-shadow, border, border-radius, box-shadow, text-transform
-4. transforms, animations, opacity
+2. `:hover`
+3. `text-shadow`, `border`, `border-radius`, `box-shadow`, `text-transform`
+4. transitions, transforms, animations, opacity
 
 ## Tutor further reading/explanation materials
 
 1. Colour reference (also RGB/hex values)
-2. Layout stuff (position: absolute, position: relative, box model)
+2. Layout stuff (`position: absolute` vs `position: relative`, box model)
