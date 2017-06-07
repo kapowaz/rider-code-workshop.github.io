@@ -39,7 +39,7 @@ First of all, use the Web Inspector tools to change and play with your layout dy
 1. Change the typography
 2. Change the background and text colour
 3. Give the layout a maximum width so that it doesn’t occupy the whole width of the window at larger sizes
-4. Make your “about me” text sit alongside your photo (`float` plus `clear` — more advanced!)
+4. Make your “about me” text sit alongside your photo (`float` plus `clear` —  see [advanced](#advanced-topics))
 5. GO NUTS!
 
 ## Publishing your website
@@ -63,7 +63,7 @@ Once you’ve completed your website and are ready to publish it, you can do thi
 5. container elements, `width` and `margin`
 6. `display: float;`
 
-Advanced topics for more advanced students
+## Advanced topics
 
 1. Media queries
 2. `:hover`
