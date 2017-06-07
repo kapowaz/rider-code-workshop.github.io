@@ -39,7 +39,7 @@ First of all, use the Web Inspector tools to change and play with your layout dy
 1. Change the typography
 2. Change the background and text colour
 3. Give the layout a maximum width so that it doesn’t occupy the whole width of the window at larger sizes
-4. Make your “about me” text sit alongside your photo (`float` plus `clear` —  see [advanced](#advanced-topics))
+4. Make your “about me” text sit alongside your photo (`float` plus `clear` —  see [advanced topics](#advanced-topics).)
 5. GO NUTS!
 
 ## Publishing your website
