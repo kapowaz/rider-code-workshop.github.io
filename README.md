@@ -63,7 +63,7 @@ Once you’ve completed your website and are ready to publish it, you can do thi
 5. container elements, `width` and `margin`
 6. `display: float;`
 
-Extra properties/stuff that would be cool to learn about (possibly ad hoc as part of the exercise):
+Advanced topics for more advanced students
 
 1. Media queries
 2. `:hover`
