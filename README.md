@@ -51,9 +51,7 @@ Once you’ve completed your website and are ready to publish it, you can do thi
 3. At the bottom left you will see a couple of text boxes. In ‘Summary’, write a short message — it’s not important what, something like “My first commit!” works fine
 4. Click the button that says “Commit to master”
 
-## Each tutor will have a go at the exercise and share a screenshot in advance!
-
-There’s an example page with code here: https://github.com/bendeliveroo20170607/bendeliveroo20170607.github.io
+**Each tutor should have a go at the exercise and share a screenshot in advance!**
 
 ## Concepts to learn about
 
