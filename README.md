@@ -6,8 +6,8 @@
 2. You’ll be asked to verify your email address, so log into your email and follow the link in the email you receive from GitHub.
 3. Launch GitHub Desktop from the Dock / Task bar, and log in using your new user account.
 4. Once you’re logged in, click the “Create New Repository” button on the left side of the window. You will be prompted to enter:
-  i. The repository name. This should be your username that you used to sign up with, followed by .github.io — e.g. khaleesi2017.github.io
-  ii. The local path. This is the location on your computer where your source code will sit. Choose a suitable location (Asif to confirm specifics!)
+  a. The repository name. This should be your username that you used to sign up with, followed by .github.io — e.g. khaleesi2017.github.io
+  b. The local path. This is the location on your computer where your source code will sit. Choose a suitable location (Asif to confirm specifics!)
 5. Click Create Repository to confirm these settings
 6. From the Repository menu, choose Open in Finder to open up your new project folder in the Finder (confirm for Windows equivalent?)
 7. Drag this folder (it should be called something like khaleesi2017.github.io) from the Finder to the Sublime Text icon on your Dock to open it up (confirm for Windows equivalent)
@@ -23,12 +23,12 @@ You should have:
 2. A photo of yourself
 3. A medium-length ‘about me’ description of yourself; talk about the kind of vehicle you use to deliver etc.
 4. A list of things related to you, such as:
-  i. Your favourite foods (maybe in order of preference?)
-  ii. Zones you’ve delivered in
-  iii. Links to your social media presence, Facebook page, Twitter profile etc.
-  iv. Your hobbies
-  v. A link to your favourite sports team’s website
-  vi. Any other interesting list of things you can think of
+  a. Your favourite foods (maybe in order of preference?)
+  b. Zones you’ve delivered in
+  c. Links to your social media presence, Facebook page, Twitter profile etc.
+  d. Your hobbies
+  e. A link to your favourite sports team’s website
+  f. Any other interesting list of things you can think of
 5. (optional) embed a widget, e.g. your Strava profile, Soundcloud player, Spotify playlist, Twitter timeline, a favourite YouTube video etc.
 
 ## Okay, now let’s do some stuff with CSS
