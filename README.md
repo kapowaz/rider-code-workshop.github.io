@@ -4,13 +4,13 @@
 
 1. Visit github.com and create an account. Your username will form part of your website address, so choose it carefully — for example, if you choose `khaleesi2017` as your username, your website will be at `khaleesi2017.github.io`. Sign up using an email address you have access to right now.
 2. You’ll be asked to verify your email address, so log into your email and follow the link in the email you receive from GitHub.
-3. Launch _GitHub Desktop_ from the Dock or Task bar, and log in using your new user account.
+3. Launch _GitHub Desktop_ from the Dock, and log in using your new user account.
 4. Once you’re logged in, click the “Create New Repository” button on the left side of the window. You will be prompted to enter:
     1. The repository name. This should be your username that you used to sign up with, followed by `.github.io` — e.g. `khaleesi2017.github.io`
     2. The local path. This is the location on your computer where your source code will be placed — choose a location you’re happy with
 5. Click Create Repository to confirm these settings
-6. From the Repository menu, choose Open in Finder to open up your new project folder in the Finder (on Mac) or in File Explorer (on Windows)
-7. Drag this folder (it should be called something like `khaleesi2017.github.io`) from the Finder or File Explorer to the _Sublime Text_ icon on your Dock or Task Bar to open it in the _Sublime Text_ editor
+6. From the Repository menu, choose Open in Finder to open up your new project folder in the Finder
+7. Drag this folder (it should be called something like `khaleesi2017.github.io`) from the Finder to the _Sublime Text_ icon on your Dock to open it in the _Sublime Text_ editor
 8. In the _Sublime Text_ editor window, right-click the folder on the left hand side, and choose New File, then press Command-S (or File > Save) to save it, and call it `index.html`
 9. Time to get started with the exercise!
 
