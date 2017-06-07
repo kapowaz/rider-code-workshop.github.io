@@ -50,6 +50,7 @@ Once you’ve completed your website and are ready to publish it, you can do thi
 2. Everything you’ve created and want to be published needs to have a checkmark beside it.
 3. At the bottom left you will see a couple of text boxes. In ‘Summary’, write a short message — it’s not important what, something like “My first commit!” works fine
 4. Click the button that says “Commit to master”
+5. Once this is done, you should be able to visit `https://<username>.github.io/` and see your shiny new rider profile!
 
 **Each tutor should have a go at the exercise and share a screenshot in advance!**
 
